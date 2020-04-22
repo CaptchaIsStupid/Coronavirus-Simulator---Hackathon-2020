@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7dbc25cf0fe62c54daa5d99cf81d524b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - world: {fileID: 7932512322412419590, guid: 4497e11f579b1234b992bfefbc372cc0, type: 3}
+  - agent: {instanceID: 0}
+  - GroceryStore: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
